@@ -5,6 +5,6 @@
 
 ## Intro
 
-This package is for testing AutoUpdate and learning laravel packages.
+This package is for testing AutoUpdate and learning laravel packages. New Line
 
 
